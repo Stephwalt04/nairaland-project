@@ -1,0 +1,144 @@
+.inner {
+    background-color: #f6f6ec;
+    border-radius: 15px;
+    text-align: center;
+    width: 65%;
+    margin-left: 19%;
+}
+
+.inner img {
+    width: 20%;
+}
+
+.inner p {
+    margin-top: -1px;
+}
+
+.domain input {
+    border-radius: 15px;
+    padding: 2px;
+    margin-top: -15px;
+    margin-bottom: 8px;
+}
+
+.lane {
+    background-color: #f6f6ec;
+    border-radius: 15px;
+    width: 65%;
+    margin-left: 19%;
+    margin-top: -10px;
+}
+
+.dame{
+    background-color: #e8ece0;
+    border-radius: 10px 10px 0 0;
+}
+
+.lane h4{
+    color:#181860;
+    margin-top:-15px;
+    margin-left: 15px;
+}
+
+.dame h3{
+    padding:5px;
+    text-align: center;
+}
+
+.before{
+    background-color: #e8ece0;
+}
+
+.before h4{
+    padding:5px;
+    color:#181860;
+}
+
+.img{
+    margin-left:19%;
+    margin-top: -8px;
+}
+
+.img img{
+    border-radius: 10px;
+    padding-left: 5px;
+}
+
+.after{
+    background-color: #f6f6ec;
+    border-radius: 15px;
+    width: 65%;
+    margin-left: 19%;
+    margin-top: -15px;
+    text-align: center;
+}
+
+.after a{
+    text-decoration: none;
+    color:#181860;
+}
+
+.dame h4{
+    padding:5px;
+    color:#181860;
+    text-align: center;
+}
+
+.jgh{
+    background-color:#e8ece0;
+    border-radius: 0 0 10px 10px;
+    padding:5px;
+}
+
+.lmg{
+    margin-left:19%;
+    margin-top: 8px;
+}
+
+.lmg img{
+    border-radius: 15px;
+    padding-left: 5px;
+}
+.lamg{
+    margin-left:20%;
+    margin-top:-8px;
+}
+
+.lamg img{
+    border-radius: 15px;
+    padding-left: 5px;
+    width:80%;
+}
+
+.gemi{
+    background-color: #f6f6ec;
+    border-radius: 10px;
+    width:66%;
+    margin-left:19%;
+    margin-top: -15px;
+}
+
+.gemi h4{
+    text-align: center;
+    padding:10px;
+}
+
+.lain{
+    background-color: #f6f6ec;
+    border-radius: 10px;
+    width:65%;
+    margin-left:20%;
+    margin-top: 7px;
+    text-align: center;
+}
+
+.dommain input {
+    border-radius: 15px;
+    padding: 2px;
+    margin-top: -15px;
+}
+
+.simen{
+    padding-top:20px;
+    padding-bottom:3px;
+}
